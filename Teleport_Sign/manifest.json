@@ -1,0 +1,33 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Teleport Sign",
+		"description": "By arutaka1220",
+		"uuid": "10e285f7-7be1-4b49-9808-98898853fd6d",
+		"platform_locked": false,
+		"version": [1,0,0],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		],
+		"pack_scope": "world"
+	},
+	"modules": [
+		{
+		  "description": "JavaScript module code",
+		  "language": "javascript",
+		  "type": "script",
+		  "uuid": "e4e0ae57-ad1e-4f12-8522-1a265dde1490",
+		  "version": [0, 0, 1],
+		  "entry": "scripts/index.js"
+		}
+	  ],
+	"dependencies": [
+		{
+			// mojang-minecraft
+			"uuid": "b26a4d4c-afdf-4690-88f8-931846312678",
+			"version": "1.0.0-beta"
+		}
+	  ]
+}
