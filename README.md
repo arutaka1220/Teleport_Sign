@@ -1,5 +1,5 @@
 # Teleport_Sign
-看板をクリックでテレポートできるアドオン([ダウンロード](https://github.com/arutaka1220/Teleport_Sign/releases/tag/v1.0.0))
+看板をクリックでテレポートできるアドオン([ダウンロード](https://github.com/arutaka1220/Teleport_Sign/releases/download/v1.0.0/Teleport_Sign.mcpack))
 
 看板に以下のように記述することで使用できます
 
